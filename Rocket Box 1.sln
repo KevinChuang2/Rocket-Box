@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket Box 1.CSharp", "Rocket Box 1.CSharp.csproj", "{58DE27D9-780C-B090-516F-40FECBDCF606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket Box 1.CSharp.Plugins", "Rocket Box 1.CSharp.Plugins.csproj", "{A4ABB521-8EA9-3B43-14BF-44E39DA40AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket Box 1.CSharp.Editor", "Rocket Box 1.CSharp.Editor.csproj", "{6DB7184A-4CD2-CB0F-4195-12DA012024CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DE27D9-780C-B090-516F-40FECBDCF606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DE27D9-780C-B090-516F-40FECBDCF606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DE27D9-780C-B090-516F-40FECBDCF606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DE27D9-780C-B090-516F-40FECBDCF606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4ABB521-8EA9-3B43-14BF-44E39DA40AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4ABB521-8EA9-3B43-14BF-44E39DA40AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4ABB521-8EA9-3B43-14BF-44E39DA40AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4ABB521-8EA9-3B43-14BF-44E39DA40AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB7184A-4CD2-CB0F-4195-12DA012024CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB7184A-4CD2-CB0F-4195-12DA012024CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB7184A-4CD2-CB0F-4195-12DA012024CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB7184A-4CD2-CB0F-4195-12DA012024CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
